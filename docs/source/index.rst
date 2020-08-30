@@ -36,7 +36,20 @@ Welcome to Interview Documentation!
    algorithms/array
    algorithms/linked-list
    algorithms/searching
+   algorithms/sorting
+   algorithms/two-pointers
 
+.. raw:: latex
+
+   \part{Interview}
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Interview
+   :name: Interview
+
+   interview/preparation
+   interview/networking
 
 .. raw:: latex
 

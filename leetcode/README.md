@@ -4,27 +4,30 @@
 ### **Index**
 | Sl No. | Topic | Link |
 | :---: | :--- | :--- |
-| 1.    | Array                | [Search Here](#Array) |
-| 2.    | Binary Search        | [Search Here](#Binary-Search) |
-| 3.    | Binary Search Tree   | [Search Here](#Binary-Search-Tree) |
-| 4.    | Bit Manipulation     | [Search Here](#Bit-Manipulation) |
-| 5.    | Contests             | [Search Here](#Contests) |
-| 6.    | Databases            | [Search Here](#Databases) |
-| 7.    | Geometry             | [Search Here](#Geometry) |
-| 8.    | Greedy               | [Search Here](#Greedy) |
-| 9.    | Hash Table           | [Search Here](#Hash-Table) |
-| 10.   | Linked-List          | [Search Here](#Linked-List) |
-| 11.   | Math                 | [Search Here](#Math) |
-| 12.   | Minimax              | [Search Here](#Minimax) |
-| 13.   | Mock                 | [Search Here](#Mock) |
-| 14.   | Stack                | [Search Here](#Stack) |
-| 15.   | String               | [Search Here](#String) |
-| 16.   | Tree                 | [Search Here](#Tree) |
-| 17.   | April '20 Challenge  | [Search Here](#April-LeetCoding-Challenge--2020) |
-| 18.   | May '20 Challenge    | [Search Here](#May-LeetCoding-Challenge--2020) |
-| 19.   | June '20 Challenge   | [Search Here](#June-LeetCoding-Challenge--2020) |
-| 20.   | July '20 Challenge   | [Search Here](#July-LeetCoding-Challenge--2020) |
-| 21.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
+| 1.    | Array                  | [Search Here](#Array) |
+| 2.    | Binary Search          | [Search Here](#Binary-Search) |
+| 3.    | Binary Search Tree     | [Search Here](#Binary-Search-Tree) |
+| 4.    | Bit Manipulation       | [Search Here](#Bit-Manipulation) |
+| 5.    | Contests               | [Search Here](#Contests) |
+| 6.    | Databases              | [Search Here](#Databases) |
+| 7.    | Dynamic Programming    | [Search Here](#Dynamic-Programming) |
+| 8.    | Geometry               | [Search Here](#Geometry) |
+| 9.    | Greedy                 | [Search Here](#Greedy) |
+| 10.   | Hash Table             | [Search Here](#Hash-Table) |
+| 11.   | Heap                   | [Search Here](#Heap) |
+| 12.   | Linked-List            | [Search Here](#Linked-List) |
+| 13.   | Math                   | [Search Here](#Math) |
+| 14.   | Minimax                | [Search Here](#Minimax) |
+| 15.   | Mock                   | [Search Here](#Mock) |
+| 16.   | Queue                  | [Search Here](#Queue) |
+| 17.   | Stack                  | [Search Here](#Stack) |
+| 18.   | String                 | [Search Here](#String) |
+| 19.   | Tree                   | [Search Here](#Tree) |
+| 20.   | April '20 Challenge    | [Search Here](#April-LeetCoding-Challenge--2020) |
+| 21.   | May '20 Challenge      | [Search Here](#May-LeetCoding-Challenge--2020) |
+| 22.   | June '20 Challenge     | [Search Here](#June-LeetCoding-Challenge--2020) |
+| 23.   | July '20 Challenge     | [Search Here](#July-LeetCoding-Challenge--2020) |
+| 24.   | August '20 Challenge   | [Search Here](#August-LeetCoding-Challenge--2020) |
 
 
 - ### **Array**
@@ -35,10 +38,10 @@
     | 4. | <span style="color:red">Hard</span> | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/Median-of-two-sorted-arrays.py) |
     | 7. | <span style="color:green">Easy</span> | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-integer.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/reverse-integer.java) |
     | 9. | <span style="color:green">Easy</span> | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.c) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/palindrome-number.cpp) |
+    | 11. | <span style="color:orange">Medium</span> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/container-with-most-water.py) |
     | 13. | <span style="color:green">Easy</span> | [Roman to Integer](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/roman-to-integer.py) |
     | 26. | <span style="color:green">Easy</span> | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/remove-duplicates-from-sorted-array.py) |
     | 27. | <span style="color:green">Easy</span> | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/remove-element.py) |
-    | 35. | <span style="color:green">Easy</span> | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/search-insert-position.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/search-insert-position.cpp) |
     | 42. | <span style="color:red">Hard</span> | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/trapping-rain-water.py) |
     | 53. | <span style="color:green">Easy</span> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/maximum-subarray.py) |
     | 64. | <span style="color:orange">Medium</span> | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/minimum-path-sum.py) |
@@ -82,20 +85,25 @@
     | 1399. | <span style="color:green">Easy</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/count-largest-group.py) |
     | 1464. | <span style="color:green">Easy</span> | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/maximum-product-of-two-elements-in-an-array.py) |
     | 1539. | <span style="color:green">Easy</span> | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/kth-missing-positive-number.py) |
-  
+    | 1550. | <span style="color:green">Easy</span> | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/three-consecutive-odds.py) |
+    
 - ### **Binary Search**
 
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 33. | <span style="color:orange">Medium</span> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-in-rotated-sorted-array.py) |
+    | 35. | <span style="color:green">Easy</span> | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-insert-position.py) |
+    | 69. | <span style="color:green">Easy</span> | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/sqrtx.py) |
     | 74. | <span style="color:orange">Medium</span> | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix.py) |
     | 240. | <span style="color:orange">Medium</span> | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix-ii.py) |
     | 278. | <span style="color:green">Easy</span> | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/first-bad-version.py) |
     | 367. | <span style="color:green">Easy</span> | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/valid-perfect-square.py) |
+    | 410. | <span style="color:red">Hard</span> | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/split-array-largest-sum.py) |
     | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
     | 528. | <span style="color:orange">Medium</span> | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/random-pick-with-weight.py) |
     | 540. | <span style="color:orange">Medium</span> | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/single-element-in-a-sorted-array.py) |
     | 704. | <span style="color:green">Easy</span> |[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/binary-search.py) |
+    | 1011. | <span style="color:orange">Medium</span> | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/capacity-to-ship-packages-within-d-days.py) |
     | 1198. | <span style="color:orange">Medium</span> | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/find-smallest-common-element-in-all-rows.py) |
     | 1428. | <span style="color:orange">Medium</span> | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/leftmost-column-with-atleast-a-one.py) |
     
@@ -138,6 +146,13 @@
     | 620. | <span style="color:green">Easy</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/not-boring-movies.sql) |
     | 627. | <span style="color:green">Easy</span> | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/databases/swap-salary.sql) |
     
+- ### **Dynamic Programming**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 1553. | <span style="color:red">Hard</span> | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/dynamic-programming/minimum-number-of-days-to-eat-n-oranges.py) |
+
+
 - ### **Geometry**
     
     | Sl No.| Level | Questions | Solution |
@@ -150,8 +165,8 @@
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
     | 122. | <span style="color:green">Easy</span> | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/best-time-to-buy-and-sell-stock-ii.py) |
+    | 435. | <span style="color:orange">Medium</span> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/non-overlapping-intervals.py) |
     | 1029. | <span style="color:green">Easy</span> | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/two-city-scheduling.py) |
-    | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/last-stone-weight.py) |
     | 1196. | <span style="color:green">Easy</span> | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/how-many-apples-can-you-put-into-the-basket.py) |
 
 - ### **Hash Table**
@@ -161,12 +176,21 @@
     | 202. | <span style="color:green">Easy</span> | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/happy-number.py) |
     | 347. | <span style="color:orange">Medium</span> | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/top-k-frequent-elements.py) |
     | 387. | <span style="color:green">Easy</span> | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/first-unique-character-in-a-string.py) |
+    | 409. | <span style="color:green">Easy</span> | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/longest-palindrome.py) |
     | 451. | <span style="color:orange">Medium</span> | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/sort-characters-by-frequency.py) |
     | 535. | <span style="color:orange">Medium</span> | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/encode-and-decode-tinyurl.py) |
     | 705. | <span style="color:green">Easy</span> | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/design-hashset.py) |
     | 1207. | <span style="color:green">Easy</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/unique-number-of-occurrences.py) |
     | 1365. | <span style="color:green">Easy</span> | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/how-many-numbers-are-smaller-than-the-current-number.py) |
     | 1426. | <span style="color:green">Easy</span> | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/counting-elements.py) |
+
+- ### **Heap**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 703. | <span style="color:green">Easy</span> | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/kth-largest-element-in-a-stream.py) |
+    | 973. | <span style="color:orange">Medium</span> | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/k-closest-points-to-origin.py) |
+    | 1046. | <span style="color:green">Easy</span> | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/heap/last-stone-weight.py) |
 
 - ### **Linked-List**
     
@@ -182,6 +206,8 @@
     | 92. | <span style="color:orange">Medium</span> | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reverse-linked-list-ii.py) |
     | 141. | <span style="color:green">Easy</span> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py) |
     | 142. | <span style="color:orange">Medium</span> | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py) |
+    | 143. | <span style="color:orange">Medium</span> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reorder-list.py) |
+    | 148. | <span style="color:orange">Medium</span> | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/sort-list.py) |
     | 160. | <span style="color:green">Easy</span> | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/intersection-of-two-linked-lists.py) |
     | 203. | <span style="color:green">Easy</span> | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-linked-list-elements) |
     | 206. | <span style="color:green">Easy</span> | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reverse-linked-list.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reverse-linked-list.c) |
@@ -201,7 +227,7 @@
     | :---: | :---: | :--- | :--- |
     | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
- 
+    | 1551. | <span style="color:orange">Medium</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/minimum-operations-to-make-array-equal.py) |
 
 - ### **Minimax**
     
@@ -215,11 +241,20 @@
     | :---: | :---: | :--- | :--- |
     | 482. | <span style="color:green">Easy</span> | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/mock/license-key-formatting.py) |
 
+- ### **Queue**
+    
+    | Sl No.| Level | Questions | Solution |
+    | :---: | :---: | :--- | :--- |
+    | 622. | <span style="color:orange">Medium</span> | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/queue/design-circular-queue.py) |
+    | 933. | <span style="color:green">Easy</span> | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/queue/number-of-recent-calls.py) |
+
 - ### **Stack**
 
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 20. | <span style="color:green">Easy</span> | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/valid-parentheses.py) |
     | 155. | <span style="color:green">Easy</span> | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/min-stack.py) |
+    | 682. | <span style="color:green">Easy</span> | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/baseball-game.py) |
     | 1021. | <span style="color:green">Easy</span> | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/stack/remove-outermost-parentheses.py) |
 
 - ### **String**
@@ -232,6 +267,7 @@
     | 242. | <span style="color:green">Easy</span> | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/valid-anagram.py) |
     | 345. | <span style="color:green">Easy</span> | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-vowels-of-a-string.py) |
     | 383. | <span style="color:green">Easy</span> | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |
+    | 412. | <span style="color:green">Easy</span> | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |
     | 468. | <span style="color:orange">Medium</span> | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/validate-ip-address.py) |
     | 520. | <span style="color:green">Easy</span> | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/detect-capital.py) |
     | 551. | <span style="color:green">Easy</span> | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/student-attendance-record-i.py) \| [Java](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/student-attendance-record-i.java) |
@@ -242,10 +278,13 @@
     | 844. | <span style="color:green">Easy</span> | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/backspace-string-compare.py) |
     | 917. | <span style="color:green">Easy</span> | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/reverse-only-letters.py) |
     | 925. | <span style="color:green">Easy</span> | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/long-pressed-name.py) |
+    | 929. | <span style="color:green">Easy</span> | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/unique-email-addresses.py) |
     | 1108. | <span style="color:green">Easy</span> | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/defanging-an-ip-address.cpp) |
     | 1189. | <span style="color:green">Easy</span> | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/maximum-number-of-balloons.py) |
     | 1427. | <span style="color:green">Easy</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/perform-string-shifts.py) |
-    
+    | 1540. | <span style="color:orange">Medium</span> | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/can-convert-string-in-k-moves.py) |
+    | 1544. | <span style="color:green">Easy</span> | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/make-the-string-great.py) |
+
 - ### **Tree**
 
     | Sl No.| Level | Questions | Solution |
@@ -343,3 +382,9 @@
     | 6 | 442. | <span style="color:orange">Medium</span> | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-all-duplicates-in-an-array.py) |  
     | 7 | 987. | <span style="color:orange">Medium</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/vertical-order-traversal-of-a-binary-tree.py) |
     | 10 | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
+    | 14 | 409. | <span style="color:green">Easy</span> | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/hash-table/longest-palindrome.py) |
+    | 15 | 435. | <span style="color:orange">Medium</span> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/greedy/non-overlapping-intervals.py) |
+    | 20 | 143. | <span style="color:orange">Medium</span> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reorder-list.py) |
+    | 21 | 905. | <span style="color:green">Easy</span> | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/sort-array-by-parity.py) |
+    | 26 | 412. | <span style="color:green">Easy</span> | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/string/ransom-note.py) |    
+
